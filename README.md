@@ -20,7 +20,7 @@ Each folder contains a full example pipeline, complete with:
 | Folder       | Description                                                                            |
 |--------------|----------------------------------------------------------------------------------------|
 | `finance`    | Semantic search over quarterly earnings reports and transcripts from major tech firms |
-| *(add more)* | *In progress working on other examples such as (e.g., legal, healthcare, customer support...)*     |
+| `upcoming` | Other examples such as healthcare, legal are in progress     |
 
 ---
 
