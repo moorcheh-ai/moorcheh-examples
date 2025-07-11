@@ -8,7 +8,7 @@ This repository showcases real-world examples of how to build Retrieval-Augmente
 
 Each folder contains a full example pipeline, complete with:
 
-- Preloaded datasets  & queries (e.g., financial reports, developer docs)
+- Preloaded datasets  & queries 
 - Code to upload and index documents into Moorcheh
 - Semantic queries and retrieval logic
 - Output analysis and results
@@ -20,7 +20,6 @@ Each folder contains a full example pipeline, complete with:
 | Folder       | Description                                                                            |
 |--------------|----------------------------------------------------------------------------------------|
 | `finance`    | Semantic search over quarterly earnings reports and transcripts from major tech firms |
-| `developer`  | Example showcasing VS Code documentation search and query generation                   |
 | *(add more)* | *In progress working on other examples such as (e.g., legal, healthcare, customer support...)*     |
 
 ---
@@ -52,10 +51,10 @@ export MOORCHEH_API_KEY="your_api_key_here"
 
 ```bash
 cd finance
-python run_pipeline.py
+python demo.py
 ```
 
-> 📌 Most examples are designed to work in both local environments and Google Colab.
+>  Most examples are designed to work in both local environments and Google Colab.
 
 ---
 
