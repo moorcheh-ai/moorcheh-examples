@@ -15,7 +15,7 @@ Each folder contains a full example pipeline, complete with:
 
 ---
 
-## 📂 Use Cases
+## Use Cases
 
 | Folder       | Description                                                                            |
 |--------------|----------------------------------------------------------------------------------------|
@@ -24,7 +24,7 @@ Each folder contains a full example pipeline, complete with:
 
 ---
 
-## 🛠Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
