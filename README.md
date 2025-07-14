@@ -36,10 +36,10 @@ cd moorcheh_examples
 
 ### 2. Set Up Environment
 
-Install dependencies:
+Set your OPENAI API Key:
 
 ```bash
-pip install -r requirements.txt
+export OPENAI_API_KEY="your_api_key_here"
 ```
 
 Set your Moorcheh API key:
@@ -50,12 +50,14 @@ export MOORCHEH_API_KEY="your_api_key_here"
 
 ### 3. Run an Example
 
+Before running the demo, make sure to upload your own document set (PDFs, text files, or markdown) into the designated folder—usually ./documents/—and your queries in CSV format (with a query column) into ./queries/.
+
 ```bash
-cd finance
+cd AnalyzingFinancialDocuments_WithLangChain
 python demo.py
 ```
 
->  Most examples are designed to work in both local environments and Google Colab.
+>  Most examples are designed to work in both local environments and Google Colab. Within each folder, you will also find videos about each topic to guide you through the process as well. 
 
 ---
 
