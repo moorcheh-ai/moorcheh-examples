@@ -20,7 +20,8 @@ Each folder contains a full example pipeline, complete with:
 | Folder       | Description                                                                            |
 |--------------|----------------------------------------------------------------------------------------|
 | `finance`    | Semantic search over quarterly earnings reports and transcripts from major tech firms |
-| `upcoming` | Other examples such as healthcare, legal are in progress     |
+| `healthcare` | Semantic search over clinical and scientific documents related to diseases  |
+| `upcoming` | Other examples such as education, legal are in progress     |
 
 ---
 
