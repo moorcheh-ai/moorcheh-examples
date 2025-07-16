@@ -7,7 +7,7 @@ The goal is to showcase how Moorcheh can power legal information retrieval using
 ## Demo Video
 
 Watch the full walkthrough on YouTube:  
-🔗 [AI LegalSight: Legal RAG Demo](https://www.youtube.com/watch?v=ikOHQKmaNeU&t=2s)
+🔗 [Legal RAG Demo](https://www.youtube.com/watch?v=ikOHQKmaNeU&t=2s)
 
 ## Key Features
 
@@ -16,7 +16,7 @@ Watch the full walkthrough on YouTube:
 - Focused on legal documents for question answering  
 - Clean ingestion pipeline and reproducible queries  
 - Demonstrates RAG using only **one API key** (Moorcheh)
-- 
+  
 ## Files Included
 
 - `legal_pipeline.ipynb` – Notebook version of the pipeline
