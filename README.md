@@ -21,7 +21,11 @@ Each folder contains a full example pipeline, complete with:
 |--------------|----------------------------------------------------------------------------------------|
 | `finance`    | Semantic search over quarterly earnings reports and transcripts from major tech firms |
 | `healthcare` | Semantic search over clinical and scientific documents related to diseases  |
-| `upcoming` | Other examples such as education, legal are in progress     |
+| `legal` | Semantic search over legal documents and reports  |
+| `upcoming` | Other examples such as education, geographical are in progress     |
+
+You can watch all our example demos here:  
+🔗 [Moorcheh YouTube Channel](https://www.youtube.com/@moorchehai/videos)
 
 ---
 
