@@ -3,6 +3,10 @@
 This example showcases how to build a Retrieval-Augmented Generation (RAG) pipeline using Moorcheh to perform semantic search and AI-powered answering over geospatial data and articles.
 
 ---
+## Demo Video
+
+Watch the full walkthrough on YouTube:  
+🔗 [Geographical RAG Demo](https://www.youtube.com/watch?v=vdbxlfoXrwM) 
 
 ## Key Features
 
