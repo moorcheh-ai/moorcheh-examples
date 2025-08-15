@@ -23,6 +23,7 @@ Each folder contains a full example pipeline, complete with:
 | `healthcare` | Semantic search over clinical and scientific documents related to diseases  |
 | `legal` | Semantic search over legal documents and reports  |
 | `geography` | Semantic search over geospatial data and documents  |
+| `scientific_journals` | Semantic search over research publications |
 | `upcoming` | Other examples such as education, customer-service are in progress     |
 
 You can watch all our example demos here:  
@@ -40,12 +41,6 @@ cd moorcheh_examples
 ```
 
 ### 2. Set Up Environment
-
-Set your OPENAI API Key:
-
-```bash
-export OPENAI_API_KEY="your_api_key_here"
-```
 
 Set your Moorcheh API key:
 
